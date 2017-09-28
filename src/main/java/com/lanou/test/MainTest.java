@@ -15,6 +15,6 @@ public class MainTest {
 
 
 
-        Integer b = 22222;
+        System.out.println("造傻博");
     }
 }
