@@ -6,13 +6,11 @@ package com.lanou.test;
 public class MainTest {
     public static void main(String[] args) {
         System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
-        System.out.println("孙钰博");
+
+        Integer a = 20;
+        a++;
+        System.out.println(a);
+
         System.out.println("别睡觉,会死!");
     }
 }
